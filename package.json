@@ -1,0 +1,16 @@
+{
+  "name": "hettaBot",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "@types/tmi.js": "^1.8.6",
+    "ts-node": "^1.7.1",
+    "typescript": "^5.9.3"
+  }
+}
