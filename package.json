@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/node": "^25.0.9",
     "@types/tmi.js": "^1.8.6",
-    "ts-node": "^1.7.1",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
 }
